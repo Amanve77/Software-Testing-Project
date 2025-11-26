@@ -1,0 +1,6 @@
+2025-11-24 23:23:28 | customer:5000 | Created rental 9001 for equipment 1003
+2025-11-24 23:24:12 | customer:5000 | Extended rental 9001 by 1 days
+2025-11-24 23:24:35 | customer:5000 | Created rental 9002 for equipment 1003
+2025-11-24 23:24:49 | customer:5000 | Requested reservation 12000
+2025-11-24 23:25:06 | customer:5000 | Returned rental 9002 fee=0.0
+2025-11-24 23:25:45 | manager | Created rental 9003 for equipment 1003

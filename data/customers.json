@@ -1,0 +1,9 @@
+[ {
+  "id" : 5000,
+  "name" : "Aman Verma",
+  "phone" : "999-111-2222"
+}, {
+  "id" : 5001,
+  "name" : "Deomani Singh",
+  "phone" : "999-333-4444"
+} ]

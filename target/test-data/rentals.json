@@ -1,0 +1,11 @@
+[ {
+  "id" : 9000,
+  "equipmentId" : 1000,
+  "customerId" : 5000,
+  "startDate" : "2025-11-24",
+  "dueDate" : "2025-11-29",
+  "depositAmount" : 150.0,
+  "returnedOn" : null,
+  "lateFeeCharged" : 0.0,
+  "returned" : false
+} ]

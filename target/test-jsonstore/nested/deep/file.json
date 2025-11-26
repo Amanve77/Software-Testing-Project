@@ -1,0 +1,9 @@
+[ {
+  "id" : 1,
+  "name" : "Test",
+  "category" : "Cat",
+  "dailyRate" : 10.0,
+  "depositAmount" : 5.0,
+  "availableUnits" : 1,
+  "underMaintenance" : false
+} ]

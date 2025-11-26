@@ -1,0 +1,33 @@
+[ {
+  "id" : 1000,
+  "name" : "Canon EOS 90D",
+  "category" : "Camera",
+  "dailyRate" : 42.5,
+  "depositAmount" : 150.0,
+  "availableUnits" : 3,
+  "underMaintenance" : false
+}, {
+  "id" : 1001,
+  "name" : "Bosch Hammer Drill",
+  "category" : "Tool",
+  "dailyRate" : 18.0,
+  "depositAmount" : 75.0,
+  "availableUnits" : 5,
+  "underMaintenance" : false
+}, {
+  "id" : 1002,
+  "name" : "DJI Ronin-S",
+  "category" : "Stabilizer",
+  "dailyRate" : 27.0,
+  "depositAmount" : 120.0,
+  "availableUnits" : 2,
+  "underMaintenance" : true
+}, {
+  "id" : 1003,
+  "name" : "Hp Laptop",
+  "category" : "Laptop",
+  "dailyRate" : 3000.0,
+  "depositAmount" : 1500.0,
+  "availableUnits" : 0,
+  "underMaintenance" : false
+} ]

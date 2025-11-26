@@ -1,0 +1,41 @@
+[ {
+  "id" : 9000,
+  "equipmentId" : 1000,
+  "customerId" : 5000,
+  "startDate" : "2025-11-22",
+  "dueDate" : "2025-11-27",
+  "depositAmount" : 150.0,
+  "returnedOn" : null,
+  "lateFeeCharged" : 0.0,
+  "returned" : false
+}, {
+  "id" : 9001,
+  "equipmentId" : 1003,
+  "customerId" : 5000,
+  "startDate" : "2025-11-24",
+  "dueDate" : "2025-11-28",
+  "depositAmount" : 1500.0,
+  "returnedOn" : null,
+  "lateFeeCharged" : 0.0,
+  "returned" : false
+}, {
+  "id" : 9002,
+  "equipmentId" : 1003,
+  "customerId" : 5000,
+  "startDate" : "2025-11-24",
+  "dueDate" : "2025-11-28",
+  "depositAmount" : 1500.0,
+  "returnedOn" : "2025-11-24",
+  "lateFeeCharged" : 0.0,
+  "returned" : true
+}, {
+  "id" : 9003,
+  "equipmentId" : 1003,
+  "customerId" : 5000,
+  "startDate" : "2025-11-24",
+  "dueDate" : "2025-11-27",
+  "depositAmount" : 1500.0,
+  "returnedOn" : null,
+  "lateFeeCharged" : 0.0,
+  "returned" : false
+} ]

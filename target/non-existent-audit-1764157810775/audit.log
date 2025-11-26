@@ -1,0 +1,43 @@
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Returned rental 9001 fee=0.0
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:10 | manager:1 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Returned rental 9001 fee=0.0
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:10 | customer:5000 | Returned rental 9001 fee=0.0
+2025-11-26 17:20:10 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:10 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Extended rental 9001 by 3 days
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9002 for equipment 1001
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5001 | Created rental 9002 for equipment 1001
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Returned rental 9001 fee=106.25
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9002 for equipment 1001
+2025-11-26 17:20:11 | customer:5000 | Returned rental 9001 fee=0.0
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Created rental 9002 for equipment 1001
+2025-11-26 17:20:11 | customer:5000 | Created rental 9001 for equipment 1000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | manager:1 | Declined reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | manager:1 | Fulfilled reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000
+2025-11-26 17:20:11 | customer:5000 | Requested reservation 12000

@@ -1,0 +1,7 @@
+[ {
+  "id" : 12000,
+  "equipmentId" : 1003,
+  "customerId" : 5000,
+  "requestedOn" : "2025-11-24",
+  "status" : "FULFILLED"
+} ]
